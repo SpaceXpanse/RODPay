@@ -88,20 +88,20 @@
 
 ## 🎨 Features
 
-* Direct, peer-to-peer Bitcoin payments
+* Direct, peer-to-peer payments
 * No transaction fees (other than the [network fee](https://en.bitcoin.it/wiki/Miner_fees))
 * No fees, middleman or KYC
 * Non-custodial (complete control over the private key)
 * Enhanced privacy & security
 * Self-hosted
 * SegWit support
-<!-- * Lightning Network support (LND, c-lightning, Eclair, and Ptarmigan) 
-* Tor support -->
+<!-- * Lightning Network support (LND, c-lightning, Eclair, and Ptarmigan) -->
+<!-- * Tor support -->
 * Share your instance with friends (multi-tenant)
 * Invoice management and Payment requests
 * Apps: Point of sale, crowdfunding, donation button
-<!-- * Full-node reliant wallet with [hardware wallet integration](https://docs.btcpayserver.org/Vault/) and SegWit support
-* Bitcoin-only build, separate community-maintained altcoin build ([supported altcoins](https://docs.btcpayserver.org/FAQ/FAQ-Altcoin/)) -->
+<!-- * Full-node reliant wallet with [hardware wallet integration](https://docs.btcpayserver.org/Vault/) and SegWit support -->
+<!-- * Bitcoin-only build, separate community-maintained altcoin build ([supported altcoins](https://docs.btcpayserver.org/FAQ/FAQ-Altcoin/)) -->
 
 ## 🚀 Getting Started
 
