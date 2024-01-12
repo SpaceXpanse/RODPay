@@ -100,8 +100,8 @@
 * Share your instance with friends (multi-tenant)
 * Invoice management and Payment requests
 * Apps: Point of sale, crowdfunding, donation button
-* Full-node reliant wallet with [hardware wallet integration](https://docs.btcpayserver.org/Vault/) and SegWit support
-<!-- * Bitcoin-only build, separate community-maintained altcoin build ([supported altcoins](https://docs.btcpayserver.org/FAQ/FAQ-Altcoin/)) -->
+<!-- * Full-node reliant wallet with [hardware wallet integration](https://docs.btcpayserver.org/Vault/) and SegWit support
+* Bitcoin-only build, separate community-maintained altcoin build ([supported altcoins](https://docs.btcpayserver.org/FAQ/FAQ-Altcoin/)) -->
 
 ## 🚀 Getting Started
 
